@@ -5,6 +5,10 @@ This project aims to predict the prices of backpacks based on various attributes
 ## Project Overview
 The goal is to build a regression model that accurately estimates the price of a backpack given its specifications.
 
+## Data Loading
+
+You can find the dataset used for this project on Kaggle here: https://www.kaggle.com/competitions/playground-series-s5e2/data
+
 ## Dataset Features
 - **Brand**: Brand of the backpack.
 - **Material**: Material used (Leather, Canvas, Nylon, Polyester).
